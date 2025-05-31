@@ -4,18 +4,18 @@ Este repositorio contiene el desarrollo del sistema web para la gestión de form
 
 ## 🔗 Enlaces del Proyecto
 
-- **Repositorio GitHub:** [https://github.com/JeanEsg/ProyectoEstructuras2]
+- **Repositorio GitHub:** https://github.com/JeanEsg/ProyectoEstructuras2
 - **Rama principal (main):** Solo se trabajo en esta rama
 
 ## 👥 Integrantes del Equipo
 
-- Jean Pool Esguerra Rojas – jean.esguerra@gmail.com
+- Jean Pool Esguerra Rojas – jean.esguerra2004@gmail.com
 
 ## 🚀 Despliegue
 
 El proyecto está desplegado y disponible en línea en el siguiente enlace:
 
-- **Sitio Web en render:** [https://proyectoestructuras2.onrender.com/]
+- **Sitio Web en render:** https://proyectoestructuras2.onrender.com/
 
 ## 🛠️ Tecnologías utilizadas
 

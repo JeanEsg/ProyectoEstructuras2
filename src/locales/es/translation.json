@@ -1,0 +1,257 @@
+{
+  "home": "Inicio",
+  "n_services": "Servicios",
+  "contact": "Contacto",
+  "login": "Iniciar sesión",
+  "hero": {
+    "title": {
+      "part1": "Automatiza y Simplifica el Cumplimiento",
+      "part2": "Normativo"
+    },
+    "description": "Ahorra tiempo y minimiza errores con una plataforma diseñada para empresas que buscan una solución ágil, confiable y automatizada para su cumplimiento normativo.",
+    "cta": "¡Empieza ahora!"
+  },
+  "about": {
+    "title": "Conoce nuestro equipo",
+    "roles": {
+      "frontend": "Desarrolladora Frontend",
+      "backend": "Desarrollador Backend"
+    }
+  },
+  "services": {
+    "title": "Revolucionamos la Evaluación de Calidad",
+    "subtitle": "Elevamos tus auditorías con automatización y enfoque estratégico para cumplir las normas y estándares.",
+    "cards": [
+      {
+        "title": "Evaluaciones Inteligentes de Cumplimiento",
+        "subtitle": "Autoevaluaciones y Auditorías Guiadas",
+        "description": "Realiza diagnósticos detallados de cumplimiento con estándares como ISO 9001, mediante cuestionarios estructurados, listas de verificación y captura de evidencias."
+      },
+      {
+        "title": "Gestión de Planes de Acción (PDCA)",
+        "subtitle": "Define Objetivos, Acciones y Seguimiento",
+        "description": "Transforma los hallazgos en mejoras: crea objetivos, asigna tareas y da seguimiento al ciclo PDCA para asegurar avances medibles en el cumplimiento."
+      },
+      {
+        "title": "Tableros Dinámicos y Reportes",
+        "subtitle": "Visualiza tu Progreso en Tiempo Real",
+        "description": "Explora dashboards con métricas de cumplimiento, brechas críticas y reportes descargables."
+      },
+      {
+        "title": "Gestión de Roles y Permisos",
+        "subtitle": "Accesos Diferenciados por Perfil",
+        "description": "Administra fácilmente los accesos del equipo: define roles como gestores, auditores o evaluadores y asegura que cada quien acceda solo a lo que necesita."
+      },
+      {
+        "title": "Normativas Flexibles y Multilenguaje",
+        "subtitle": "Adáptate a Distintas Normas y Regiones",
+        "description": "Certifícate en diversas normativas y usa la plataforma en el idioma de tu preferencia."
+      },
+      {
+        "title": "Identificación de Brechas y Acciones Correctivas",
+        "subtitle": "Detecta, Documenta y Soluciona",
+        "description": "Registra brechas de cumplimiento, define acciones correctivas y lleva el control de tu estado con historial y evidencias."
+      }
+    ]
+  },
+  "footer": {
+    "text1": "Todos los derechos reservados"
+  },
+  "log_in": {
+    "title": "Login",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "terms": "Términos y condiciones",
+    "button": "Iniciar Sesión",
+    "p1": "¿No tienes una cuenta?",
+    "register": "Regístrate",
+    "error": "Error al iniciar sesión: Credenciales inválidas",
+    "exist": "No se encontró información del usuario en la base de datos."
+  },
+  "sign_up": {
+    "title": "Sign Up",
+    "user": "Nombre de usuario",
+    "rols": {
+      "select": "Seleccione un rol",
+      "r1": "Auditor Interno",
+      "r2": "Auditor Externo",
+      "r3": "Administrador"
+    },
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "company": "Nombre de la compañía",
+    "code": "Código",
+    "button": "Crear cuenta",
+    "p1": "¿Ya tienes una cuenta?",
+    "login": "Inicia sesión"
+  },
+  "sidebar": {
+    "language": "Idioma",
+    "logout": "Cerrar Sesión",
+    "home": "Inicio",
+    "forms": "Formularios",
+    "create_form": "Crear Formulario",
+    "users": "Usuarios",
+    "reports": "Reportes",
+    "action_plan": "Plan de acción"
+  },
+  "index": {
+    "welcome": "Bienvenido",
+    "role": "Rol",
+    "resume": "Resumen de Funcionalidades",
+    "actions": "Acciones Disponibles",
+    "admin": {
+      "title": "Administrador",
+      "description": "Administra usuarios, supervisa auditores, crea y asigna plantillas y auditorías, y controla el sistema completo.",
+      "list": [
+        "Gestionar auditores internos y externos",
+        "Crear y administrar plantillas de formularios"
+      ],
+      "features": {
+        "usuarios": {
+          "title": "Gestión de usuarios",
+          "desc": "Crear, visualizar y eliminar usuarios del sistema."
+        },
+        "crearForm": {
+          "title": "Creación de formularios",
+          "desc": "Diseñar formularios basados en normas o lineamientos establecidos."
+        },
+        "eliminarForm": {
+          "title": "Eliminación de formularios",
+          "desc": "Eliminar formularios previamente creados según las normas o lineamientos."
+        }
+      }
+    },
+    "auditor_interno": {
+      "title": "Auditor Interno",
+      "description": "Realiza auditorías internas mediante normas o lineamientos, completa formularios, genera reportes de cumplimiento y elabora planes de acción que pueden ser revisados por un auditor externo.",
+      "list": [
+        "Seleccionar normas o lineamientos y completar formularios",
+        "Generar reportes y verificar cumplimiento",
+        "Crear y dar seguimiento a planes de acción",
+        "Enviar planes de acción para revisión externa",
+        "Revisar comentarios y observaciones de auditorías"
+      ],
+      "features": {
+        "formularios": {
+          "title": "Formularios",
+          "desc": "Seleccionar una norma o lineamiento y completar los formularios de auditoría correspondientes."
+        },
+        "reportes": {
+          "title": "Reportes de Cumplimiento",
+          "desc": "Generar reportes que indiquen el cumplimiento o incumplimiento detectado en la auditoría."
+        },
+        "planes": {
+          "title": "Planes de Acción",
+          "desc": "Crear, registrar y dar seguimiento a planes de acción, así como enviarlos para revisión de un auditor externo."
+        },
+        "comentarios": {
+          "title": "Comentarios",
+          "desc": "Consultar observaciones y comentarios emitidos por los auditores externos sobre los planes de acción."
+        }
+      }
+    },
+    "auditor_externo": {
+      "title": "Auditor Externo",
+      "description": "Revisa formularios pendientes de auditoría, evalúa evidencias, agrega comentarios, y actualiza el estado de auditoría para seguimiento interno.",
+      "list": [
+        "Consultar formularios pendientes para auditar",
+        "Evaluar evidencias y documentar comentarios",
+        "Enviar observaciones para actualización en base de datos",
+        "Actualizar estado de auditoría a 'Comentarios realizados'"
+      ],
+      "features": {
+        "pendientes": {
+          "title": "Formularios Pendientes",
+          "desc": "Visualizar formularios que requieren auditoría externa."
+        },
+        "evaluacion": {
+          "title": "Evaluación",
+          "desc": "Ver evidencias y escribir comentarios para cada formulario."
+        },
+        "estado": {
+          "title": "Estado Auditoría",
+          "desc": "Actualizar estado para permitir seguimiento interno."
+        },
+        "seguimiento": {
+          "title": "Seguimiento",
+          "desc": "Facilitar que el auditor interno revise comentarios y observaciones."
+        }
+      }
+    }
+  },
+  "forms": {
+    "title": "Formularios",
+    "load": "Subir Documento",
+    "pdf": "Selecciona un archivo PDF:",
+    "generate": "Generar formulario"
+  },
+  "users": {
+    "title": "Gestión de Usuarios",
+    "name": "Nombre",
+    "email": "Email",
+    "rol": "Rol",
+    "company": "Compañía",
+    "actions": "Acciones",
+    "no": "No aplica",
+    "delete": "Eliminar",
+    "cancel": "Cancelar",
+    "new": "Nuevo usuario"
+  },
+  "plan": {
+    "title": "Plan de Acción",
+    "success": "Plan enviado exitosamente a un auditor externo",
+    "evidence_s": "Evidencias guardadas exitosamente",
+    "save": "Plan de acción creado exitosamente",
+    "create": "Crear Nuevo Plan de Acción",
+    "create1": "Nuevo Plan",
+    "objective": "Objetivo del Plan",
+    "sub1": "Etapas y Metas",
+    "meta": "Meta",
+    "etapa": "Etapa",
+    "e": "Etapas:",
+    "evidencia": "Evidencia",
+    "a_evidencia": "Añadir Evidencias",
+    "comment": "Comentario:",
+    "add": "Agregar otra etapa",
+    "sub2": "Describa el objetivo principal del plan de acción",
+    "sub3": "Describa la meta a alcanzar",
+    "loading": "Guardando...",
+    "save2": "Guardar Plan",
+    "loading2": "Cargando planes...",
+    "l_send": "Enviando...",
+    "send": "Enviar Evidencias",
+    "send2": "Enviar a Auditor Externo",
+    "void": "No hay planes de acción registrados. Cree uno nuevo."
+  },
+  "report": {
+    "title": "Reportes",
+    "t2": "Reportes guardados",
+    "t3": "Generar nuevo reporte",
+    "t4": "Haga clic en el botón para generar un reporte basado en las respuestas del formulario.",
+    "t5": "Generando...",
+    "t6": "Generar reporte",
+    "t7": "Resumen de resultados",
+    "t8": "puntos",
+    "t9": "Puntuación total",
+    "t10": " posibles.",
+    "certificate": "Ver certificado",
+    "download": "Descargar certificado",
+    "generate": "Generar otro reporte",
+    "back": "Volver a la lista"
+  },
+  "certificate": {
+    "t1": "CERTIFICADO",
+    "t2": "DE CUMPLIMIENTO",
+    "t3": "Se certifica que:",
+    "t4": " de la empresa ",
+    "t5": "Ha cumplido satisfactoriamente con los requisitos especificados en la norma:",
+    "t6": "Con una puntuación de ",
+    "t7": "de 100 puntos posibles.",
+    "t8": "Firma del evaluador",
+    "t9": "Fecha: ",
+    "t11": "Felicitaciones, te certificaste en la norma ",
+    "t12": "Sigue intentando, estás cerca de lograrlo",
+    "t13": "Lo siento, no cumples con los puntos suficientes para certificarte"
+  }
+}

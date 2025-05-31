@@ -1,0 +1,258 @@
+{
+  "home": "Home",
+  "about_us": "About Us",
+  "n_services": "Services",
+  "contact": "Contact",
+  "login": "Log in",
+  "hero": {
+    "title": {
+      "part1": "Automate and Simplify Regulatory",
+      "part2": "Compliance"
+    },
+    "description": "Save time and minimize errors with a platform designed for companies looking for a fast, reliable, and automated solution for regulatory compliance.",
+    "cta": "Get started now!"
+  },
+  "about": {
+    "title": "Meet our team",
+    "roles": {
+      "frontend": "Frontend Developer",
+      "backend": "Backend Developer"
+    }
+  },
+  "services": {
+    "title": "We Revolutionize Quality Assessment",
+    "subtitle": "We enhance your audits with automation and strategic focus to meet standards and regulations.",
+    "cards": [
+      {
+        "title": "Smart Compliance Assessments",
+        "subtitle": "Self-Assessments and Guided Audits",
+        "description": "Conduct detailed diagnostics of compliance with standards like ISO 9001 using structured questionnaires, checklists, and evidence capture."
+      },
+      {
+        "title": "Action Plan Management (PDCA)",
+        "subtitle": "Define Objectives, Actions, and Tracking",
+        "description": "Turn findings into improvements: create objectives, assign tasks, and track the PDCA cycle to ensure measurable progress."
+      },
+      {
+        "title": "Dynamic Dashboards and Reports",
+        "subtitle": "See Your Progress in Real Time",
+        "description": "Explore dashboards with compliance metrics, critical gaps, and downloadable reports."
+      },
+      {
+        "title": "Role and Permission Management",
+        "subtitle": "Access Control by Profile",
+        "description": "Easily manage team access: define roles like managers, auditors, or evaluators and ensure everyone only sees what they need."
+      },
+      {
+        "title": "Flexible Standards and Multilanguage",
+        "subtitle": "Adapt to Different Norms and Regions",
+        "description": "Get certified under various standards and use the platform in your preferred language."
+      },
+      {
+        "title": "Gap Identification and Corrective Actions",
+        "subtitle": "Detect, Document, and Resolve",
+        "description": "Log compliance gaps, define corrective actions, and track your status with history and evidence."
+      }
+    ]
+  },
+  "footer": {
+    "text1": "All rights reserved"
+  },
+  "log_in": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "terms": "Terms and Conditions",
+    "button": "Log In",
+    "p1": "Don't have an account?",
+    "register": "Sign Up",
+    "error": "Error logging in: Invalid credentials",
+    "exist": "No user information was found in the database."
+  },
+  "sign_up": {
+    "title": "Sign Up",
+    "user": "Username",
+    "rols": {
+      "select": "Select a role",
+      "r1": "Internal Auditor",
+      "r2": "External Auditor",
+      "r3": "Administrator"
+    },
+    "email": "Email",
+    "password": "Password",
+    "company": "Company Name",
+    "code": "Code",
+    "button": "Create Account",
+    "p1": "Already have an account?",
+    "login": "Log In"
+  },
+  "sidebar": {
+    "language": "Language",
+    "logout": "Log Out",
+    "home": "Home",
+    "forms": "Forms",
+    "create_form": "Create Form",
+    "users": "Users",
+    "reports": "Reports",
+    "action_plan": "Action Plan"
+  },
+  "index": {
+    "welcome": "Welcome",
+    "role": "Role",
+    "resume": "Functionality Summary",
+    "actions": "Available Actions",
+    "admin": {
+      "title": "Administrator",
+      "description": "Manages users, supervises auditors, creates and assigns templates and audits, and oversees the entire system.",
+      "list": [
+        "Manage internal and external auditors",
+        "Create and manage form templates"
+      ],
+      "features": {
+        "usuarios": {
+          "title": "User management",
+          "desc": "Create, view and delete system users."
+        },
+        "crearForm": {
+          "title": "Form creation",
+          "desc": "Design forms based on established standards or guidelines."
+        },
+        "eliminarForm": {
+          "title": "Deleting forms",
+          "desc": "Delete forms previously created according to rules or guidelines."
+        }
+      }
+    },
+    "auditor_interno": {
+      "title": "Internal Auditor",
+      "description": "Oversees and documents internal audits, fills out forms, and follows up on generated action plans.",
+      "list": [
+        "Select standards or guidelines and complete forms",
+        "Generate reports and verify compliance",
+        "Create and follow up action plans",
+        "Submit action plans for external review",
+        "Review audit comments and observations"
+      ],
+      "features": {
+        "formularios": {
+          "title": "Forms",
+          "desc": "Select a standard or guideline and complete the relevant audit forms."
+        },
+        "reportes": {
+          "title": "Compliance Reports",
+          "desc": "Generate reports indicating compliance or non-compliance detected in the audit."
+        },
+        "planes": {
+          "title": "Action Plans",
+          "desc": "Create, record and follow up action plans and submit them for review by an external auditor."
+        },
+        "comentarios": {
+          "title": "Coments",
+          "desc": "Consult observations and comments issued by the external auditors on the action plans."
+        }
+      }
+    },
+    "auditor_externo": {
+      "title": "External Auditor",
+      "description": "Reviews pending audit forms, evaluates evidence, adds comments, and updates the audit status for internal follow-up.",
+      "list": [
+        "Check pending forms to audit",
+        "Evaluate evidence and document comments",
+        "Send observations for database update",
+        "Update audit status to 'Comments made'"
+      ],
+      "features": {
+        "pendientes": {
+          "title": "Pending Forms",
+          "desc": "View forms requiring external auditing."
+        },
+        "evaluacion": {
+          "title": "Evaluation",
+          "desc": "Review evidence and write comments for each form."
+        },
+        "estado": {
+          "title": "Audit Status",
+          "desc": "Update status to enable internal follow-up."
+        },
+        "seguimiento": {
+          "title": "Follow-Up",
+          "desc": "Allow internal auditor to review comments and observations."
+        }
+      }
+    }
+  },
+  "forms": {
+    "title": "Forms",
+    "load": "Upload Document",
+    "pdf": "Select a PDF file:",
+    "generate": "Generate form"
+  },
+  "users": {
+    "title": "User Management",
+    "name": "Name",
+    "email": "Email",
+    "rol": "Role",
+    "company": "Company",
+    "actions": "Actions",
+    "no": "Not applicable",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "new": "New user"
+  },
+  "plan": {
+    "title": "Action Plan",
+    "success": "Plan successfully sent to an external auditor",
+    "evidence_s": "Evidence successfully saved",
+    "save": "Action plan successfully created",
+    "create": "Create New Action Plan",
+    "create1": "New Plan",
+    "objective": "Plan Objective",
+    "sub1": "Stages and Goals",
+    "meta": "Goal",
+    "etapa": "Stage",
+    "e": "Stages:",
+    "evidencia": "Evidence",
+    "a_evidencia": "Add Evidence",
+    "comment": "Comment:",
+    "add": "Add another stage",
+    "sub2": "Describe the main objective of the action plan",
+    "sub3": "Describe the goal to achieve",
+    "loading": "Saving...",
+    "save2": "Save Plan",
+    "loading2": "Loading plans...",
+    "l_send": "Sending...",
+    "send": "Send Evidence",
+    "send2": "Send to External Auditor",
+    "void": "No action plans registered. Create a new one."
+  },
+  "report": {
+    "title": "Reports",
+    "t2": "Saved reports",
+    "t3": "Generate new report",
+    "t4": "Click the button to generate a report based on the form responses.",
+    "t5": "Generating...",
+    "t6": "Generate report",
+    "t7": "Results summary",
+    "t8": "points",
+    "t9": "Total score",
+    "t10": " possible.",
+    "certificate": "View certificate",
+    "download": "Download certificate",
+    "generate": "Generate another report",
+    "back": "Back to list"
+  },
+  "certificate": {
+    "t1": "CERTIFICATE",
+    "t2": "OF COMPLIANCE",
+    "t3": "This certifies that:",
+    "t4": " from the company ",
+    "t5": "Has successfully met the requirements specified in the standard:",
+    "t6": "With a score of ",
+    "t7": "out of 100 possible points.",
+    "t8": "Evaluator's signature",
+    "t9": "Date: ",
+    "t11": "Congratulations, you are certified to the standard ",
+    "t12": "Keep trying, you're close",
+    "t13": "Sorry, you do not meet enough points to be certified"
+  }
+}

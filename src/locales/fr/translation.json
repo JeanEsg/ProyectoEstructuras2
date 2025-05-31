@@ -1,0 +1,258 @@
+{
+  "home": "Accueil",
+  "about_us": "À propos de nous",
+  "n_services": "Services",
+  "contact": "Contact",
+  "login": "Se connecter",
+  "hero": {
+    "title": {
+      "part1": "Automatiser et simplifier la réglementation",
+      "part2": "Conformité"
+    },
+    "description": "Gagnez du temps et minimisez les erreurs avec une plateforme conçue pour les entreprises à la recherche d'une solution rapide, fiable et automatisée pour la conformité réglementaire.",
+    "cta": "Commencez maintenant!"
+  },
+  "about": {
+    "title": "Rencontrez notre équipe",
+    "roles": {
+      "frontend": "Développeur Frontend",
+      "backend": "Développeur Backend"
+    }
+  },
+  "services": {
+    "title": "Nous révolutionnons l'évaluation de la qualité",
+    "subtitle": "Nous améliorons vos audits grâce à l'automatisation et à l'orientation stratégique afin de répondre aux normes et aux réglementations.",
+    "cards": [
+      {
+        "title": "Évaluations intelligentes de la conformité",
+        "subtitle": "Auto-évaluations et audits guidés",
+        "description": "Effectuer des diagnostics détaillés de la conformité à des normes telles que ISO 9001 à l'aide de questionnaires structurés, de listes de contrôle et de la collecte d'éléments de preuve."
+      },
+      {
+        "title": "Gestion du plan d'action (PDCA)",
+        "subtitle": "Définir les objectifs, les actions et le suivi",
+        "description": "Transformez les résultats en améliorations : créez des objectifs, assignez des tâches et suivez le cycle PDCA pour garantir des progrès mesurables."
+      },
+      {
+        "title": "Tableaux de bord et rapports dynamiques",
+        "subtitle": "Voir vos progrès en temps réel",
+        "description": "Explorez les tableaux de bord avec les mesures de conformité, les lacunes critiques et les rapports téléchargeables."
+      },
+      {
+        "title": "Gestion des rôles et des autorisations",
+        "subtitle": "Contrôle d'accès par profil",
+        "description": "Gérez facilement l'accès des équipes : définissez des rôles tels que managers, auditeurs ou évaluateurs et veillez à ce que chacun ne voie que ce dont il a besoin."
+      },
+      {
+        "title": "Normes flexibles et multilingues",
+        "subtitle": "S'adapter aux différentes normes et régions",
+        "description": "Faites-vous certifier selon diverses normes et utilisez la plateforme dans la langue de votre choix."
+      },
+      {
+        "title": "Identification des lacunes et mesures correctives",
+        "subtitle": "Détecter, documenter et résoudre",
+        "description": "Enregistrez les écarts de conformité, définissez des actions correctives et suivez votre état d'avancement à l'aide d'un historique et de preuves."
+      }
+    ]
+  },
+  "footer": {
+    "text1": "Tous droits réservés"
+  },
+  "log_in": {
+    "title": "Connexion",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "terms": "Conditions générales",
+    "button": "Se connecter",
+    "p1": "Vous n'avez pas de compte ?",
+    "register": "S'inscrire",
+    "error": "Erreur de connexion : informations d'identification non valides",
+    "exist": "Aucune information sur l'utilisateur n'a été trouvée dans la base de données."
+  },
+  "sign_up": {
+    "title": "Inscription",
+    "user": "Nom d'utilisateur",
+    "rols": {
+      "select": "Sélectionnez un rôle",
+      "r1": "Auditeur interne",
+      "r2": "Auditeur externe",
+      "r3": "Administrateur"
+    },
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "company": "Nom de l'entreprise",
+    "code": "Code",
+    "button": "Créer un compte",
+    "p1": "Vous avez déjà un compte ?",
+    "login": "Se connecter"
+  },
+  "sidebar": {
+    "language": "Langue",
+    "logout": "Se déconnecter",
+    "home": "Accueil",
+    "forms": "Formulaires",
+    "create_form": "Créer un formulaire",
+    "users": "Utilisateurs",
+    "reports": "Rapports",
+    "action_plan": "Plan d'action"
+  },
+  "index": {
+    "welcome": "Bienvenue",
+    "role": "Rôle",
+    "resume": "Résumé des fonctionnalités",
+    "actions": "Actions disponibles",
+    "admin": {
+      "title": "Administrateur",
+      "description": "Gère les utilisateurs, supervise les auditeurs, crée et attribue des modèles et des audits, et contrôle l'ensemble du système.",
+      "list": [
+        "Gérer les auditeurs internes et externes",
+        "Créer et gérer des modèles de formulaires"
+      ],
+      "features": {
+        "usuarios": {
+          "title": "Gestion des utilisateurs",
+          "desc": "Créer, visualiser et supprimer des utilisateurs du système."
+        },
+        "crearForm": {
+          "title": "Création de formulaires",
+          "desc": "Concevoir des formes sur la base de normes ou de lignes directrices établies."
+        },
+        "eliminarForm": {
+          "title": "Élimination des formulaires",
+          "desc": "Supprimer des formulaires précédemment créés selon des règles ou des lignes directrices."
+        }
+      }
+    },
+    "auditor_interno": {
+      "title": "Auditeur interne",
+      "description": "Supervise et documente les audits internes, remplit les formulaires, et suit les plans d'action générés.",
+      "list": [
+        "Sélectionner des normes ou des lignes directrices et remplir des formulaires",
+        "Générer des rapports et vérifier la conformité",
+        "Élaborer des plans d'action et en assurer le suivi",
+        "Soumettre les plans d'action à un examen externe",
+        "Examiner les commentaires et les observations de l'audit"
+      ],
+      "features": {
+        "formularios": {
+          "title": "Formulaires",
+          "desc": "Sélectionnez une norme ou une ligne directrice et remplissez les formulaires d'audit correspondants."
+        },
+        "reportes": {
+          "title": "Rapports de conformité",
+          "desc": "Générer des rapports indiquant la conformité ou la non-conformité détectée lors de l'audit."
+        },
+        "planes": {
+          "title": "Plans d'action",
+          "desc": "Créer, enregistrer et suivre des plans d'action et les soumettre à l'examen d'un auditeur externe."
+        },
+        "comentarios": {
+          "title": "Commentaires",
+          "desc": "Consulter les observations et commentaires émis par les auditeurs externes sur les plans d'action."
+        }
+      }
+    },
+    "auditor_externo": {
+      "title": "Auditeur externe",
+      "description": "Examine les formulaires d'audit en attente, évalue les preuves, ajoute des commentaires et met à jour l'état de l'audit pour un suivi interne.",
+      "list": [
+        "Consulter les formulaires en attente d'audit",
+        "Évaluer les preuves et documenter les commentaires",
+        "Envoyer les observations pour mise à jour de la base de données",
+        "Mettre à jour l’état de l’audit à 'Commentaires effectués'"
+      ],
+      "features": {
+        "pendientes": {
+          "title": "Formulaires en attente",
+          "desc": "Voir les formulaires nécessitant un audit externe."
+        },
+        "evaluacion": {
+          "title": "Évaluation",
+          "desc": "Consulter les preuves et rédiger des commentaires pour chaque formulaire."
+        },
+        "estado": {
+          "title": "État de l’audit",
+          "desc": "Mettre à jour l’état pour permettre le suivi interne."
+        },
+        "seguimiento": {
+          "title": "Suivi",
+          "desc": "Permettre à l’auditeur interne de consulter les commentaires et observations."
+        }
+      }
+    }
+  },
+  "forms": {
+    "title": "Formulaires",
+    "load": "Télécharger un Document",
+    "pdf": "Sélectionnez un fichier PDF :",
+    "generate": "Générer un formulaire"
+  },
+  "users": {
+    "title": "Gestion des Utilisateurs",
+    "name": "Nom",
+    "email": "Email",
+    "rol": "Rôle",
+    "company": "Entreprise",
+    "actions": "Actions",
+    "no": "Non applicable",
+    "delete": "Supprimer",
+    "cancel": "Annuler",
+    "new": "Nouvel utilisateur"
+  },
+  "plan": {
+    "title": "Plan d'Action",
+    "success": "Plan envoyé avec succès à un auditeur externe",
+    "evidence_s": "Preuves enregistrées avec succès",
+    "save": "Plan d'action créé avec succès",
+    "create": "Créer un Nouveau Plan d'Action",
+    "create1": "Nouveau plan",
+    "objective": "Objectif du Plan",
+    "sub1": "Étapes et Objectifs",
+    "meta": "Objectif",
+    "etapa": "Étape",
+    "e": "Étapes :",
+    "evidencia": "Preuve",
+    "a_evidencia": "Ajouter des Preuves",
+    "comment": "Commentaire :",
+    "add": "Ajouter une autre étape",
+    "sub2": "Décrivez l'objectif principal du plan d'action",
+    "sub3": "Décrivez l'objectif à atteindre",
+    "loading": "Enregistrement...",
+    "save2": "Enregistrer le Plan",
+    "loading2": "Chargement des plans...",
+    "l_send": "Envoi...",
+    "send": "Envoyer les Preuves",
+    "send2": "Envoyer à l'Auditeur Externe",
+    "void": "Aucun plan d'action enregistré. Créez-en un nouveau."
+  },
+  "report": {
+    "title": "Rapports",
+    "t2": "Rapports enregistrés",
+    "t3": "Générer un nouveau rapport",
+    "t4": "Cliquez sur le bouton pour générer un rapport basé sur les réponses du formulaire.",
+    "t5": "Génération...",
+    "t6": "Générer un rapport",
+    "t7": "Résumé des résultats",
+    "t8": "points",
+    "t9": "Score total",
+    "t10": " possibles.",
+    "certificate": "Voir le certificat",
+    "download": "Télécharger le certificat",
+    "generate": "Générer un autre rapport",
+    "back": "Retour à la liste"
+  },
+  "certificate": {
+    "t1": "CERTIFICAT",
+    "t2": "DE CONFORMITÉ",
+    "t3": "Il est certifié que :",
+    "t4": " de l'entreprise ",
+    "t5": "A satisfait avec succès aux exigences spécifiées dans la norme :",
+    "t6": "Avec un score de ",
+    "t7": "sur 100 points possibles.",
+    "t8": "Signature de l'évaluateur",
+    "t9": "Date : ",
+    "t11": "Félicitations, vous êtes certifié selon la norme ",
+    "t12": "Continuez d'essayer, vous n'êtes pas loin",
+    "t13": "Désolé, vous n'avez pas assez de points pour être certifié"
+  }
+}
